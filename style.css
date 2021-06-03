@@ -1,0 +1,11 @@
+body{
+    background-image: url('img/ground.jpg');
+}
+#box {
+  width: 200px;
+  height: 200px;
+  position: absolute;
+  left: 200px;
+  top: 200px;
+  background-image: url("img/right.png");
+}
